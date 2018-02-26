@@ -48,7 +48,7 @@ h1 {
  text-align:center;
   font-family: Segoe UI;
   font-size: 40px;
-  color: #2FA458;
+  color: white;
 }
 
 h2 {
@@ -64,7 +64,7 @@ p {
 }
 
 div {
-  background-color: #F8882C;
+  background-color: #508C5E;
 }
 
 .partie {
