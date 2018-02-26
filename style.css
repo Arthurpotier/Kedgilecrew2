@@ -48,7 +48,7 @@ h1 {
  text-align:center;
   font-family: Segoe UI;
   font-size: 40px;
-  color: white;
+  color: orange;
 }
 
 h2 {
@@ -61,6 +61,7 @@ h2 {
 p {
   vertical-align:middle;
   font-family: Roboto;
+  color:white;
 }
 
 div {
