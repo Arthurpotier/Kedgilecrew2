@@ -1,0 +1,62 @@
+/*Banner*/
+
+#banner{
+  text-align: center;
+  background-image: url("http://millennialtakeover.com/wp-content/uploads/2015/06/10958993_617540201681033_6388973535663478356_o-1024x683.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+/*footer*/
+
+  #footer {
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+.valeurs {
+  text-align: center;
+}
+
+button {
+  margin-left: 80px;
+
+}
+
+h1 {
+ text-align:center;
+}
+
+p {
+  vertical-align:middle;
+}
+
+div {
+  background-color: #E8B487;
+}
+
+.partie {
+  border-style: solid;
+  border-radius: 20px black;
+}
