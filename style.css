@@ -58,6 +58,13 @@ h2 {
   font-weight: lighter;
 }
 
+h3 {
+  text-align:center;
+  font-family: Segoe UI strong;
+  font-size: 24px;
+  color:white;
+}
+
 p {
   vertical-align:middle;
   font-family: Roboto;
