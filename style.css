@@ -39,8 +39,8 @@
 }
 
 button {
-  margin-left: 112px;
-
+  display: block;
+  margin:auto
 }
 
 h1 {
