@@ -38,9 +38,13 @@
   text-align: center;
 }
 
+
 button {
-   margin:auto
-}
+  
+display: block;
+  margin : auto;
+
+} 
 
 h1 {
  text-align:center;
